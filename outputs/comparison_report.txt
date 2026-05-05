@@ -1,0 +1,26 @@
+1. Overall winner  
+GUIDED_TRANSCRIPTION is the overall winner due to slightly better preservation of meaning, clearer phrasing, and appropriate rendering of Hawaiian terms.
+
+2. Accuracy summary  
+Both transcriptions capture the general content and flow well. GUIDED_TRANSCRIPTION better preserves nuances such as correct collocations ("throw it with a boat" vs. "put[s] the net [out] around") and fills in slight hesitations smoothly. BASIC_TRANSCRIPTION occasionally mishears words ("sink is a lid" instead of "lead") and has awkward phrases affecting clarity.
+
+3. Hawaiian vocabulary accuracy  
+Both transcriptions correctly identify "hukilau," "lau" meaning "leaf," and "akule." GUIDED_TRANSCRIPTION presents these terms with slightly clearer contextual integration, e.g., repeating "lau is a leaf" naturally. Neither fully captures the pronunciation clarity or nuances hidden in some unclear speech, but GUIDED_TRANSCRIPTION uses "aji" (Japanese term) accurately.
+
+4. Missing or incorrect content  
+- BASIC_TRANSCRIPTION mishears "lead" as "lid" for the sinker material, which changes meaning. GUIDED_TRANSCRIPTION also mistakes "lead" as "lid," so this is a shared error.  
+- BASIC_TRANSCRIPTION omits some minor clarifications: "Then the bottom of the net, then..." is incomplete. GUIDED_TRANSCRIPTION handles these transitions more completely.  
+- GUIDED_TRANSCRIPTION adds "you see" at the end, which is implied but not explicitly in the reference—minor and non-problematic.
+
+5. Inserted or hallucinated content  
+- BASIC_TRANSCRIPTION inserts "that's a use for coconut," which is not in the reference.  
+- BASIC_TRANSCRIPTION adds "white mare," which replaces the unclear word/phrase "[xx]" and is an inaccurate addition.  
+- GUIDED_TRANSCRIPTION inserts "up Waimea," which is also not in the reference.  
+- These insertions do not drastically affect the overall meaning but represent hallucination or guesswork.
+
+6. Practical recommendation  
+Use GUIDED_TRANSCRIPTION when a vocabulary/context prompt is available, as it generally improves readability and maintains Hawaiian terms accurately. Both transcriptions confuse "lead" with "lid," so ensure domain-specific terms are clarified or post-edited. Avoid relying on raw transcripts without prompts for culturally specific content.
+
+7. Approximate score out of 10 for each transcription  
+- BASIC_TRANSCRIPTION: 7/10 (some content errors, awkward phrasing, and unfounded insertions)  
+- GUIDED_TRANSCRIPTION: 8.5/10 (better flow, more accurate Hawaiian vocabulary use, minor hallucinations)

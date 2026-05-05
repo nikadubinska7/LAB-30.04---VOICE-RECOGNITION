@@ -16,6 +16,8 @@ ENV/
 .idea/
 .vscode/
 
-# Generated transcription artifacts
+# Generated chunk artifacts
 chunks/
-outputs/
+
+# Keep transcription outputs, except the private reference text
+outputs/original_reference.txt
